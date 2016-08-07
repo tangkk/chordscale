@@ -7,5 +7,10 @@ and compute a simple piece of melody within every chord-scale
 
 The melody generator is a simple Markov model trained using some pieces from Weimar Jazz dataset
 
+Dependency:
+numpy
+scipy
+pretty-midi (https://github.com/craffel/pretty-midi)
+
 For more information, see the following google doc:
 https://docs.google.com/document/d/17qt4dPgkMTBxbH6AqT3_5AeNwpNFuZ3rnctn4RRbF_A/
