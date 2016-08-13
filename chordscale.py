@@ -10,7 +10,7 @@ import miditest
 import pretty_midi
 from scipy.io.wavfile import write
 
-infile = 'test-c.lab'
+infile = 'lab/test-c.lab'
 jdictfile = open('jdict.pkl','rb')
 
 jdict = cPickle.load(jdictfile)

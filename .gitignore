@@ -1,5 +1,5 @@
 *.pyc
-*.pdf
-*.mp3
-./*.wav
+/garyburton/*
+./*.mid
+./*.midi
 *.ipynb
